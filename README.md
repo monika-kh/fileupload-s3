@@ -5,7 +5,7 @@ Converts the uploded file data into encrypted data before saving into the S3 buc
 
 ## Install virtualenv
 
-pip install virtualenv then create env ```virtualenv -p python env```
+```pip install virtualenv``` then create env ```virtualenv -p python env```
 
 ## Install requirements.txt
 
